@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: E:\pcb\IceStorm\IceStorm.PcbDoc
+RuleKind=Clearance|RuleName=5V|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Outer|Scope=Board|Minimum=4.00
+RuleKind=SolderMaskExpansion|RuleName=VIA|Scope=Board|Minimum=4.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Inner|Scope=Board|Minimum=4.50
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
